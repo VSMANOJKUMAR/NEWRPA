@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Disk Cleanup  Drive Selection",
+  "Type": "Screen",
+  "Id": "DMrm_lZfSUyMsoqt1sphZQ",
+  "Reference": "v-iouKvXIU2H9NsbQcbd7g/DMrm_lZfSUyMsoqt1sphZQ",
+  "ParentRef": "v-iouKvXIU2H9NsbQcbd7g/UURw24X50Ey7OBuna30fjA",
+  "Created": "2026-09-28T11:15:56.1379639Z",
+  "Updated": "2026-09-28T11:15:56.1379639Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

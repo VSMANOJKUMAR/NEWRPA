@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Disk Cleanup  Drive Selection",
+  "Type": "App",
+  "Id": "ftO3TbuI40-tvU0Z38Lj-g",
+  "Reference": "v-iouKvXIU2H9NsbQcbd7g/ftO3TbuI40-tvU0Z38Lj-g",
+  "Created": "2026-09-28T11:15:56.1177184Z",
+  "Updated": "2026-09-28T11:15:56.1177184Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

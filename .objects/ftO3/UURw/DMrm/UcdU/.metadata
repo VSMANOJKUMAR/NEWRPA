@@ -1,0 +1,14 @@
+﻿{
+  "Name": "&Drives",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "UcdUPaooI0KjObzIwF92fA",
+  "Reference": "v-iouKvXIU2H9NsbQcbd7g/UcdUPaooI0KjObzIwF92fA",
+  "ParentRef": "v-iouKvXIU2H9NsbQcbd7g/DMrm_lZfSUyMsoqt1sphZQ",
+  "Created": "2026-09-28T11:22:12.7040469Z",
+  "Updated": "2026-09-28T11:22:12.7040469Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

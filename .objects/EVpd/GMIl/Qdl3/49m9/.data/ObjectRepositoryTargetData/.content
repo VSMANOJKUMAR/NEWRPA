@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6sp0167WWUWiixtDza5D0w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="astrologyfutureeye.com/zodiac/virgo-sign" DesignTimeRectangle="169, 496, 1581, 152" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='main' tag='P' /&gt;" Guid="ff6898cd-59e2-4a8e-9fc4-b5ce33108369" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Virgo Horoscope | Virgo Powers, Weaknesses, Likes, Dislikes' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="eb98ebcdd6efcfe26089709a1cc89d99.jpg" xmlns="">0RAZ_XevLN0-WntOvSPlxYg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

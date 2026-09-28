@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="oA54eLVHcEeeDHcT6Y98yQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="35, 102, 348, 28" ElementType="DropDown" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;wnd ctrlid='999' matching:ctrlid='fuzzy' fuzzylevel:ctrlid='0.0' /&gt;" Guid="c6524a5d-c88c-4308-900b-741d11437c30" ScopeSelectorArgument="&lt;wnd app='cleanmgr.exe' cls='#32770' title='Disk Cleanup : Drive Selection' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="37, 80, 98, 16" ElementType="Text" FuzzySelectorArgument="&lt;wnd ctrlid='1136' title='&amp;amp;Drives:' matching:ctrlid='fuzzy' fuzzylevel:ctrlid='0.0' matching:title='fuzzy' fuzzylevel:title='0.0' check:text='&amp;amp;Drives:' /&gt;" Guid="5a9da709-2ba7-4446-95fc-e47fd472ce06" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e6c3dfc698e6bf2d9ac42c1017d3d77f.jpg" xmlns="">0EVWxWLW2vkKJrIkTuYOhNw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

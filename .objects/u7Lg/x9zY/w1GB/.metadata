@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Run",
+  "Type": "Screen",
+  "Id": "w1GBIWU62Uq2KVEmkDlDPQ",
+  "Reference": "v-iouKvXIU2H9NsbQcbd7g/w1GBIWU62Uq2KVEmkDlDPQ",
+  "ParentRef": "v-iouKvXIU2H9NsbQcbd7g/x9zY5UJAjUq8Oa7Px0sN5Q",
+  "Created": "2026-09-28T11:13:59.0629889Z",
+  "Updated": "2026-09-28T11:13:59.0629889Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

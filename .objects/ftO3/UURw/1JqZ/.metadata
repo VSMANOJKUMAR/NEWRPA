@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Disk Cleanup for New Volume (F)",
+  "Type": "Screen",
+  "Id": "1JqZ5ocfAEaPa_2Bger0iw",
+  "Reference": "v-iouKvXIU2H9NsbQcbd7g/1JqZ5ocfAEaPa_2Bger0iw",
+  "ParentRef": "v-iouKvXIU2H9NsbQcbd7g/UURw24X50Ey7OBuna30fjA",
+  "Created": "2026-09-28T11:23:50.8230031Z",
+  "Updated": "2026-09-28T11:23:50.8230031Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

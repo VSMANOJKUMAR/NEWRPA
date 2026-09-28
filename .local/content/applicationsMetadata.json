@@ -1,0 +1,18 @@
+﻿{
+  "Version": "1.0",
+  "Metadata": [
+    {
+      "ApplicationType": "WindowsApplication",
+      "ExecutablePath": {
+        "Value": "word.exe",
+        "IsExpression": false
+      },
+      "Url": null,
+      "Arguments": {
+        "Value": "C:\\Users\\V S MANOJ KUMAR\\Documents\\Uipath Trial\\final\\P13.docx",
+        "IsExpression": false
+      },
+      "Version": null
+    }
+  ]
+}

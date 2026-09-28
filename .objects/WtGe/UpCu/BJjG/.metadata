@@ -1,0 +1,13 @@
+﻿{
+  "Name": "invoice.jpeg",
+  "Type": "Screen",
+  "Id": "BJjGEoLvN02Pv0AMJN7HXQ",
+  "Reference": "v-iouKvXIU2H9NsbQcbd7g/BJjGEoLvN02Pv0AMJN7HXQ",
+  "ParentRef": "v-iouKvXIU2H9NsbQcbd7g/UpCu7yeHM0mVVXIwogTxVg",
+  "Created": "2026-09-27T13:13:37.8513316Z",
+  "Updated": "2026-09-27T13:13:37.8513316Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

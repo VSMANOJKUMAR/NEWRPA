@@ -1,0 +1,12 @@
+﻿{
+  "Name": "invoice.jpeg",
+  "Type": "App",
+  "Id": "WtGeThY1YE-Aho3kJ3knpw",
+  "Reference": "v-iouKvXIU2H9NsbQcbd7g/WtGeThY1YE-Aho3kJ3knpw",
+  "Created": "2026-09-27T13:13:37.8257863Z",
+  "Updated": "2026-09-27T13:13:37.8257863Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

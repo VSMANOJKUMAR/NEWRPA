@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome RPA Test",
+  "Type": "Screen",
+  "Id": "x8FGxKmt60yaypkqhEliaA",
+  "Reference": "v-iouKvXIU2H9NsbQcbd7g/x8FGxKmt60yaypkqhEliaA",
+  "ParentRef": "v-iouKvXIU2H9NsbQcbd7g/qIkH06rqD0ys5Wn99Cf-lg",
+  "Created": "2026-09-27T13:01:18.2941662Z",
+  "Updated": "2026-09-27T13:01:18.2941662Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

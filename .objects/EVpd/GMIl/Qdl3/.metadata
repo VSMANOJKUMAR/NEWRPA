@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Sun Sign Calculator  Western Zodiac Si",
+  "Type": "Screen",
+  "Id": "Qdl3BOv6TUycLuMOYIxfLg",
+  "Reference": "v-iouKvXIU2H9NsbQcbd7g/Qdl3BOv6TUycLuMOYIxfLg",
+  "ParentRef": "v-iouKvXIU2H9NsbQcbd7g/GMIlmQEoBUahMFQw353IjQ",
+  "Created": "2026-09-27T06:35:54.4361352Z",
+  "Updated": "2026-09-27T06:35:54.4361352Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
